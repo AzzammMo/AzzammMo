@@ -9,15 +9,6 @@
 
 ### `CREATE // IMPROVE // INNOVATE`
 
-*Turning ideas into real-world applications.*
-
-*Engineering with creativity. Testing with precision.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-00FF88?style=for-the-badge&logo=github&logoColor=black&labelColor=080B12)](https://github.com/AzzammMo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B12)](https://www.linkedin.com/in/muh-azzam-izzadin-b611922ab/)
-
 </div>
 
 ---
@@ -47,9 +38,6 @@
 <a href="https://react.dev/">
 <img src="https://skillicons.dev/icons?i=react" width="60" alt="React"/>
 </a>
-<a href="https://reactnative.dev/">
-<img src="https://cdn.simpleicons.org/reactnative/61DAFB" width="60" alt="React Native"/>
-</a>
 <a href="https://git-scm.com/">
 <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
 </a>
@@ -67,7 +55,7 @@
 
 `PHP` · `Laravel` · `MySQL` · `JavaScript` · `HTML5` · `CSS3`
 
-`React` · `React Native` · `Git` · `GitHub` · `Docker` · `VS Code`
+`React` · `Git` · `GitHub` · `Docker` · `VS Code`
 
 </div>
 
@@ -86,11 +74,9 @@
 
 <br/><br/>
 
-`TEST AUTOMATION` &nbsp; // &nbsp; `SOFTWARE QUALITY` &nbsp; // &nbsp; `RELIABILITY`
+`TEST AUTOMATION` · `SOFTWARE QUALITY` · `RELIABILITY`
 
 </div>
-
-I value the quality behind every application — validating functionality, identifying defects, and improving the reliability of software through systematic testing.
 
 ---
 
@@ -107,19 +93,23 @@ I value the quality behind every application — validating functionality, ident
 
 <br/><br/>
 
-<a href="https://github.com/AzzammMo">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AzzammMo&bg_color=050B0D&color=00FF88&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</a>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=AzzammMo&theme=transparent&hide_border=true&background=050B0D&ring=00FF88&fire=FF4ECD&currStreakLabel=00D9FF&sideLabels=E0FFF4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9AAB" width="95%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## `04 // GUIDING PRINCIPLE`
+## `04 // CONTRIBUTION ACTIVITY`
+
+<div align="center">
+
+[![GitHub Contribution Calendar](https://ghchart.rshah.org/00FF88/AzzammMo)](https://github.com/AzzammMo)
+
+</div>
+
+---
+
+## `05 // GUIDING PRINCIPLE`
 
 <div align="center">
 
@@ -129,15 +119,9 @@ I value the quality behind every application — validating functionality, ident
 
 # مَنْ جَدَّ وَجَدَ
 
-### *Man Jadda Wajada*
+### "Whoever strives, finds success."
 
-**English:** “Whoever strives, succeeds.”
-
-**Indonesia:** “Barang siapa bersungguh-sungguh, maka ia akan berhasil.”
-
-<br/>
-
-*Discipline fuels progress. Persistence turns effort into achievement.*
+### "Barang siapa bersungguh-sungguh dia akan mendapatkannya."
 
 <br/>
 
